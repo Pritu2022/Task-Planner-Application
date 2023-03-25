@@ -10,7 +10,7 @@ etc.
 *java
 *spring
 *mysql
-*thymeleaf for fronted
+*thymeleaf for frontend
 
 
 
