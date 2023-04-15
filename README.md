@@ -9,8 +9,10 @@ etc.
 ## Tech stack 
 *java
 *spring
+*hibernate
 *mysql
 *thymeleaf for frontend
+
 
 
 
